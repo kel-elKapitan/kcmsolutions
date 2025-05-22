@@ -87,12 +87,20 @@ h3,
 h4,
 h5 {color: var(--bs-blue)}
 h6 {
+<<<<<<< HEAD
   color: var(--bs-gray);
+=======
+  color: var(--bs-white);
+>>>>>>> 7d7f26e (updated slogan and footer)
   font-size: calc(1.7rem);
 }
 
 .aboutme { color:var(--bs-black); font-size: calc(1.7rem);}
+<<<<<<< HEAD
 .header-h6 {color:var(--bs-gray);}
+=======
+
+>>>>>>> 7d7f26e (updated slogan and footer)
 h2 {
   font-weight: 700;
 }
